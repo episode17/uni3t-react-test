@@ -18,7 +18,7 @@ Complete the app by filling the missing parts listed below.
 (src/App.js)
 
 **TASK 02: Fetch data from api**\
-(src/api.j)
+(src/api.js)
 
 **TASK 03: Render the posts**\
 (src/App.js)
