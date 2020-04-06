@@ -6,6 +6,10 @@ You will build a light Reddit clone using the old-school `listings` api.
 
 ---
 
+### View the end result [here](https://uni3t-react-test.herokuapp.com/).
+
+Allow some time (~10s) for Heroku to boot the app.
+
 ## Tasks
 
 Complete the app by filling the missing parts listed below.
