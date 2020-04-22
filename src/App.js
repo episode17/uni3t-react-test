@@ -77,7 +77,7 @@ const App = () => {
         <Error error={error} />
       ) : (
         <Pagination>
-          {data.before && (
+          {data?.before && (
             <Button
               as={Link}
               to={`/${sort}?${stringify({
@@ -88,7 +88,7 @@ const App = () => {
               Prev
             </Button>
           )}
-          {data.after && (
+          {data?.after && (
             <Button
               as={Link}
               to={`/${sort}?${stringify({
