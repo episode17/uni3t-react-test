@@ -2,7 +2,7 @@
 
 **_A React & JavaScript knowledge test._**
 
-You will build a light Reddit clone using the old-school `listings` api.
+You will build a light Reddit clone using the [listings](https://www.reddit.com/dev/api/#section_listings) api.
 
 ---
 
